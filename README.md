@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Jason - aka codeslinger.dev - and I write (and write about) code.
+
 
 <!--
 **codeslinger-dev/codeslinger-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
