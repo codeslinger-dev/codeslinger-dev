@@ -1,6 +1,40 @@
-### Hello! 👋
 
-My name is Jason - aka codeslinger.dev - and I write (and write about) code.
+![-----------](./_assets/yellow_line.png)
+
+<p align="center">
+  <img src="./_assets/github_header_image.png" alt="Codeslinger Header" width="100%">
+</p>
+
+### My name is Jason [`codeslinger-dev`] and I write (and write about) code and the software development process.
+
+### I am US-based, hold an undergraduate degree in Computer Science, and have made software development my career for the past 20+ years.  My primary language of choice is `C` (usually `C99`) for use in real-time, embedded applications. I also have extensive experience with C++, Make, Bash, Gitlab, Linux/Windows, as well as many other languages, tool, and environments.  I am currently learning Python, Rust and Zig.
+
+<p align="right">
+
+![](https://img.shields.io/badge/language-C-informational?style=for-the-badge&logo=C&logoColor=green)
+![](https://img.shields.io/badge/language-C++-informational?style=for-the-badge&logo=C&logoColor=green)
+![](https://img.shields.io/badge/language-Python-informational?style=for-the-badge&logo=python&logoColor=green)
+
+![](https://img.shields.io/badge/tools-Make-informational?style=for-the-badge&logo=cmake&logoColor=orange)
+![](https://img.shields.io/badge/tools-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=orange)
+![](https://img.shields.io/badge/tools-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=orange)
+
+![](https://img.shields.io/badge/env-Linux-informational?style=for-the-badge&logo=redhat&logoColor=red)
+![](https://img.shields.io/badge/env-Windows-informational?style=for-the-badge&logo=windows&logoColor=blue)
+
+</p>
+
+### My non-professional software focus is on small, performant, cross-platform libraries and utilities.
+
+
+![-----------](./_assets/yellow_line.png)
+
+<p align="right">
+<a href="https://github.com/codeslinger-dev/codeslinger-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeslinger-dev&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9ca8c&icon_color=2fbf8f&bg_color=1d1f21" alt="codeslinger-dev's GitHub Stats" />
+</a>
+</p>
+
 
 
 <!--
