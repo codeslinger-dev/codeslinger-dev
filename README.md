@@ -31,7 +31,7 @@
 
 <p align="right">
 <a href="https://github.com/codeslinger-dev/codeslinger-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeslinger-dev&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9ca8c&icon_color=2fbf8f&bg_color=1d1f21" alt="codeslinger-dev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeslinger-dev&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c8c828&icon_color=41173c&bg_color=171721&border_color=c8c828" alt="codeslinger-dev's GitHub Stats" />
 </a>
 </p>
 
